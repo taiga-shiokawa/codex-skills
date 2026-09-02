@@ -1,0 +1,4 @@
+interface:
+  display_name: "Init Idea"
+  short_description: "対話から文書駆動開発の起点となる初期要求メモを作成する"
+  default_prompt: "Use $init-idea to capture my project idea in docs/ideas/initial-requirements.md."

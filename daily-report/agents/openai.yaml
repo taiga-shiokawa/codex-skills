@@ -1,0 +1,4 @@
+interface:
+  display_name: "開発日誌"
+  short_description: "Wordの日報とExcel管理台帳を安全に作成・更新します"
+  default_prompt: "$daily-report を使って、今日の開発作業をWord日報とExcel管理台帳に記録してください。"

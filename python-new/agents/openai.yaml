@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python New"
+  short_description: "uvとsrc構成でテスト付きPython学習プロジェクトを作成する"
+  default_prompt: "Use $python-new to scaffold a tested uv-based Python project with a src package layout."

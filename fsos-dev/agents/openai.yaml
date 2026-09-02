@@ -1,0 +1,4 @@
+interface:
+  display_name: "FSOS Dev"
+  short_description: "FieldSpec OS仕様から開発用の永続文書一式を生成する"
+  default_prompt: "Use $fsos-dev to generate repository documentation from a FieldSpec OS project specification."

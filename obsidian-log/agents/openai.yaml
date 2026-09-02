@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian 会話ログ"
+  short_description: "Codexの会話と作業内容をAI Log保管庫へ保存"
+  default_prompt: "Use $obsidian-log to summarize this task and save it to my AI Log vault."

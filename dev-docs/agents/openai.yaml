@@ -1,0 +1,4 @@
+interface:
+  display_name: "開発文書"
+  short_description: "文書体系を整備し、設計選択を承認後に一括反映する"
+  default_prompt: "$dev-docs を使い、このリポジトリの文書駆動開発を初期化または監査してください。"

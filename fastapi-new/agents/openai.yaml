@@ -1,0 +1,4 @@
+interface:
+  display_name: "FastAPI New"
+  short_description: "uvで規模別構成のFastAPI学習プロジェクトを新規作成する"
+  default_prompt: "Use $fastapi-new to scaffold a uv-based FastAPI project for the requested scale."

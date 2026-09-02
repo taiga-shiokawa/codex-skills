@@ -1,0 +1,4 @@
+interface:
+  display_name: "機能追加"
+  short_description: "変更を文書駆動で計画・実装・検証し、承認範囲で公開する"
+  default_prompt: "$add-feature を使い、この変更のステアリング作成、実装、検証、必要なPRとマージまで進めてください。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Understand Code"
+  short_description: "抽象と具体を往復してコードを理解し継続ノートへ記録する"
+  default_prompt: "Use $understand-code to explain this codebase from architecture to a representative execution path."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "GAS Clone"
+  short_description: "GASプロジェクトをclaspで安全にローカル取得"
+  default_prompt: "Use $gas-clone to clone this Google Apps Script project into the current workspace."

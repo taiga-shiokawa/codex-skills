@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Docs"
+  short_description: "AGENTS.mdと永続文書7点を独立コンテキストでレビューする"
+  default_prompt: "Use $review-docs to review AGENTS.md and the persistent development documents for consistency."

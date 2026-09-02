@@ -1,0 +1,4 @@
+interface:
+  display_name: "変更をPR化してmainへマージ"
+  short_description: "変更をcommit・PR化しmainへマージしてブランチを削除"
+  default_prompt: "$gh-merge-main を使い、この変更をcommit・pushしてPull Requestを作成し、mainへのマージと作業ブランチ削除まで行ってください。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fix Dev Env Warnings"
+  short_description: "TypeScriptやESLintの設定警告を診断"
+  default_prompt: "Use $fix-dev-env-warnings to diagnose and fix this TypeScript, ESLint, or test environment warning. 解説や説明文は日本語で書いてください。"

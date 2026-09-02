@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gas Dev"
+  short_description: "GAS開発を取得・設計・実装・pushまで進行"
+  default_prompt: "Use $gas-dev to guide this Google Apps Script project from setup through implementation and push."

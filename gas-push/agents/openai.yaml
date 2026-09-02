@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gas Push"
+  short_description: "GASの変更を点検してclaspで安全に反映"
+  default_prompt: "Use $gas-push to inspect and push the local Google Apps Script changes safely."
