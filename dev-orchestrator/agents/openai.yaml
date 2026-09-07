@@ -1,0 +1,4 @@
+interface:
+  display_name: "開発モデルオーケストレーター"
+  short_description: "開発作業をLuna・Terra・Solへ振り分け、行き詰まり時だけAstraへ委任"
+  default_prompt: "$dev-orchestrator を使い、作業に合うモデルのサブエージェントへ委任して開発を進めてください。"
